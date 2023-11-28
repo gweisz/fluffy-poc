@@ -1,0 +1,9 @@
+# Virtual python env stuff
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Helpers
+venv.ref
